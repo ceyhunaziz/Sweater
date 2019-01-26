@@ -5,9 +5,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-/**
- * Created by User on 26.01.2019.
- */
 @Entity
 public class Message {
     @Id
